@@ -1,0 +1,20 @@
+# git clone
+
+no site do git copia a url ou ssh, abre o gitbash na area desejada e digita o comando git clone e cola a url ou ssh copiada e da enter ( obs ira carregar e estra pronto para trabalhar)
+
+
+
+# git add
+
+valida um arquivo ou pasta novo criado dentro do git existente
+
+# git push
+
+empurra o novo commit para o github
+
+# git status
+
+verefica se esta tudo ok
+
+
+
