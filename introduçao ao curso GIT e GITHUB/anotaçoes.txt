@@ -1,0 +1,7 @@
+Link para Download do Git
+
+
+
+https://gitforwindows.org/
+
+o git bash e um terminal estendido para otimizar o uso do Git
