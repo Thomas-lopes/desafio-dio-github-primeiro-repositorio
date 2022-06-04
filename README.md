@@ -4,5 +4,5 @@ repositorio criado para o desafio de projetos
 ## links uteis
 [sintaxe basica markdown](https://www.markdownguide.org/getting-started/)
 
-# duvidas sobre o GIT e GITHUB
+# duvidas sobre o GIT
 assistir a ultima aula
